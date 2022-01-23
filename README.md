@@ -1,2 +1,1 @@
-# digitalergarten
-Mein digitaler Garten
+# Mein digitaler Garten
