@@ -1,6 +1,6 @@
 ---
 title: Gehäkelter Topflappen
-summary: Ein kleines Sonntagmorgenprojekt.
+summary: Ein kleines Sonntagmorgenprojekt
 image:
     alt: Topflappen
     src: ./images/topflappen-1920.jpg
