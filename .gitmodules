@@ -1,0 +1,3 @@
+[submodule "webgen"]
+	path = webgen
+	url = git@github.com:codekulturbonn/webgen.git
